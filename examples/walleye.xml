@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Six ROM Pixel 2 thread">https://forum.xda-developers.com/pixel-2/development/8-1-0-nephilim-aosp-rom-r3ds-t3783599</XDAUrl>
+                description="Visit Six ROM thread">https://forum.xda-developers.com/pixel-2/development/8-1-0-nephilim-aosp-rom-r3ds-t3783599</XDAUrl>
 	</walleye>
     </Stable>
 </SlimOTA>

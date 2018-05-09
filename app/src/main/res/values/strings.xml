@@ -18,8 +18,8 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">Updates</string>
-    <string name="app_title">Updates</string>
+    <string name="app_name">SixOTA</string>
+    <string name="app_title">SixOTA</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>
@@ -48,14 +48,15 @@
     <string name="autoupdate_disabled">Automatic update is disabled</string>
 
     <!-- Notification -->
-    <string name="notification_title">ResurrectionRemix OS update</string>
+    <string name="notification_title">Six update</string>
     <string name="notification_message">A new version is available!</string>
-    <string name="resurrection_channel">ResurrectionOTA notifications</string>
-    <string name="resurrection_channel_description">Notifications about new ResurrectionRemix OS updates</string>
+    <string name="six_channel">Six notifications</string>
+    <string name="six_channel_description">Notifications about Six OTA updates</string>
 
     <!-- Dialog -->
-    <string name="dialog_message">Checking for ROM updates, please wait…</string>
+    <string name="dialog_message">Checking for updates, please wait…</string>
 
     <!-- Toast -->
     <string name="toast_message">There\'s no browser installed</string>
+
 </resources>

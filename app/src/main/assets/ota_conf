@@ -6,9 +6,9 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file 
 #
-ota_url=https://raw.githubusercontent.com/Six-Pie/OTA/pie/walleye.xml
-release_type=R3Ds
-device_name=ro.six.device
+ota_url=https://raw.githubusercontent.com/SiX-Pie/OTA/pie/ota.xml
+release_type=Stable
+device_name=ro.product.device
 
 version_source=ro.six.version
 version_delimiter=-
